@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mehmed Kucevic</h1>
 <h3 align="center">A young Web Developer from Serbia</h3>
-(img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw1-FO9XGERZlExaVQb2pJbJ&ust=1690071190251000&source=images&cd=vfe&opi=89978449&ved=0CA4QjRxqFwoTCPD50fyDoYADFQAAAAAdAAAAABAD")
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F121386152431352974%2F&psig=AOvVaw314l6A8lRdwSZXqa2rJRSC&ust=1690071306601000&source=images&cd=vfe&opi=89978449&ved=0CA4QjRxqGAoTCMiKhLaEoYADFQAAAAAdAAAAABCiAQ)]
+(img align="right" alt="Coding" width="400" src="https://www.istockphoto.com/vector/back-end-development-web-banner-concept-gm1167600247-322063713")
+[![MasterHead]()]
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mehmedkucevic&label=Profile%20views&color=0e75b6&style=flat" alt="mehmedkucevic" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
